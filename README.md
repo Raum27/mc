@@ -1,0 +1,3 @@
+# mc
+
+## ใช้ KNN,LOGIS,GAUSSIAN,RAMDOMFOREST
